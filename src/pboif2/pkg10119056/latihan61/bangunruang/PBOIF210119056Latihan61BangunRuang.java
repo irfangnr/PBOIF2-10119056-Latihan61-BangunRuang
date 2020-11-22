@@ -6,8 +6,11 @@
 package pboif2.pkg10119056.latihan61.bangunruang;
 
 /**
- *
  * @author ACER
+ * NAMA     : Irfan Ginanjar
+ * KELAS    : PBOIF2
+ * NIM      : 10119056
+ * Deskripsi Program: Program ini berisi program untuk menampilkan Bangun ruang
  */
 public class PBOIF210119056Latihan61BangunRuang {
 
